@@ -31,7 +31,7 @@ A telecom company loses **26.6% of customers per year** to churn — each one wo
 
 ## 🚀 Live Demo
 
-👉 **[Try the app — enter any customer profile, get instant churn probability](https://your-streamlit-link.streamlit.app)**
+👉 **[Try the app — enter any customer profile, get instant churn probability](https://customer-churn-prediction-g4pwsfttrarqebxggewo8f.streamlit.app/)**
 
 ![App screenshot](outputs/05_business_summary.png)
 

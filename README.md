@@ -131,8 +131,8 @@ Based on the model's findings, I'd recommend the following retention strategy:
 ## 👤 About
 
 **Veda Sai Polisetty** — Data Analyst | AI/ML  
-📧 your.email@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
+📧 vpolise3@asu.edu 
+🔗 [LinkedIn](https://www.linkedin.com/in/vedasaipolisetty/)
 
 ---
 
